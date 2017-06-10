@@ -3,7 +3,6 @@
 
 The following events will are planned as a part of the **>eR-Biostat**  initiative:
 * Linear models course, August, 2017, Gondar University, Ethiopia.
-+ xx
 * **>eR-Biostat**  workshop in Ghana, 2018.
 * **>eR-Biostat**  workshop in Ethiopia, 2018.
 
