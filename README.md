@@ -12,6 +12,7 @@ The following events will are planned as a part of the **>eR-Biostat**  initiati
 
 
 **Follow the events news in FACEBOOK:** https://www.facebook.com/ER-BioStat-1463845487001786/
+
 **Follow the last updates in Tweeter:** @erbiostat, eR-Biostat
 
 # Interested to contribute to a **>eR-Biostat**  event ?
