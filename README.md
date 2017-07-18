@@ -3,7 +3,7 @@
 
 The following events will are planned as a part of the **>eR-Biostat**  initiative:
 * **>eR-Biostat** workshop in Gondar University, Ethiopia, 28/08/2017-01/09/2017. Topics include:
-  + The >eR- learnig system.
+  + The >eR-Biostat learnig system.
   + Introduction for infectious diseases using R.
 * **>eR-Biostat** workshop in Moi University, Kenya, 02/10/2017-05/10/2017.
 * **>eR-Biostat** linear models course in Gondar University, Ethiopia, November, 2017.
