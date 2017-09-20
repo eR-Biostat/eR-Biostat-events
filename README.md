@@ -6,13 +6,13 @@ The following events will are planned as a part of the **>eR-Biostat**  initiati
   + The >eR-Biostat learnig system.
   + Introduction for infectious diseases using R.
   + For more informetion: ER-Biostat (FACEBOOK).
-* **>eR-Biostat** workshop in Moi University, Kenya, 02/10/2017-05/10/2017.
-* **>eR-Biostat** linear models course in Gondar University, Ethiopia, November, 2017.
-* **>eR-Biostat** workshop in Ghana, Spring, 2018.
-* **>eR-Biostat** workshop in Ethiopia, Spring, 2018.
+* **>eR-Biostat** workshop in Kenya: Date and location: TBA.
+* **>eR-Biostat** workshop in Ethiopia: Spring 2018.
+* **>eR-Biostat** workshop in Ghana: Date and location: TBA.
+* **>eR-Biostat** workshop in Malawi:  Date and location: TBA.
 
 
-**Follow the events news in FACEBOOK:** https://www.facebook.com/ER-BioStat-1463845487001786/
+**Follow the updates and events news in FACEBOOK:** https://www.facebook.com/ER-BioStat-1463845487001786/
 
 **Follow the last updates in Tweeter:** @erbiostat, eR-Biostat
 
