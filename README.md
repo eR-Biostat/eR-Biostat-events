@@ -2,17 +2,17 @@
 ## >eR-Biostat Events
 
 The following events will are planned as a part of the **>eR-Biostat**  initiative:
-* **>eR-Biostat** workshop in Gondar University, Ethiopia, 28/08/2017-01/09/2017. Topics include:
+* **>eR-Biostat** workshop in Gondar University, Ethiopia, **28/08/2017-01/09/2017**. Topics include:
   + The >eR-Biostat learnig system.
   + Introduction for infectious diseases using R.
   + For more informetion: ER-Biostat (FACEBOOK).
-* **>eR-Biostat** workshop in Jomo Kenyatta University, Kenya: 11/12/2017-14/12/2017. Topics include:
+* **>eR-Biostat** workshop in Jomo Kenyatta University, Kenya: **11/12/2017-14/12/2017**. Topics include:
   + The >eR-Biostat learnig system.
   + Introduction to R.
   + Introduction to statistical modeling using R.
   + Introduction for infectious diseases using R.
   + For more informetion: ER-Biostat (FACEBOOK).
-* **>eR-Biostat** workshop in Ethiopia: Spring 2018.
+* **>eR-Biostat** workshop in Ethiopia: **19/03/2017-23/03/2017**.
 * **>eR-Biostat** workshop in Ghana: Date and location: TBA.
 * **>eR-Biostat** workshop in Malawi:  Date and location: TBA.
 
